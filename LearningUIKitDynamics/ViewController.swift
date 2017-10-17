@@ -20,6 +20,17 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    @IBAction func strengthValueChanged(_ sender: UISlider) {
+        // TODO
+    }
+    
+    @IBAction func smoothnessValueChanged(_ sender: UISlider) {
+        // TODO
+    }
+    
+    @IBAction func speedValueChanged(_ sender: UISlider) {
+        // TODO
+    }
+    
 }
 
